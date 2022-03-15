@@ -1,5 +1,4 @@
-# superancun.github.io
-My site
+# superancun
 Hello World
 
 - View on [home](https://github.com/superancun) 
